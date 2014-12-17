@@ -1,6 +1,12 @@
 #VegasJS #36 - Interstellar
 ## January 20th, 2015
 
-Promises / Asynchronous Programming in JS - Sean H.
-
-Error Handling : Errors are not Strings - Jimmy J.
+- Food + Drink
+- Thanks Sponsors
+- Welcome, new attendees
+- Talk: Sean Hagstrom- Promises / Asynchronous Programming
+- Break
+- Talk: [Jimmy Jacobson](https://twitter.com/jimmyjacobson) - Error Handling : Errors are not Strings
+- Next meeting planning ([github](https://github.com/vegasjs/Meetings/issues))
+- Raffle
+- Open Microphone / Announcements
