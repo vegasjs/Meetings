@@ -4,6 +4,7 @@
 - Food + Drink
 - Thanks Sponsors
 - Welcome, new attendees
+- Beginners Corner
 - Talk: Sean Hagstrom- Promises / Asynchronous Programming
 - Break
 - Talk: [Jimmy Jacobson](https://twitter.com/jimmyjacobson) - Error Handling : Errors are not Strings
