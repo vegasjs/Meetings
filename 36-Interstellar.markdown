@@ -4,6 +4,7 @@
 - Food + Drink
 - Thanks Sponsors
 - Welcome, new attendees
+- Announcements
 - Beginners Corner - [Suz](http://twitter.com/noopkat)
 - Talk: Sean Hagstrom- Promises / Asynchronous Programming
 - Break
