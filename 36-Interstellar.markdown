@@ -15,7 +15,7 @@
 
 News Items
 
-= Dot Vegas
+- Dot Vegas
 - New [Website](http://js.prototype.vegas)
 - Slack Chat
 - Sticker help
