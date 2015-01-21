@@ -15,9 +15,9 @@
 
 News Items
 
-- Dot Vegas
+- [Dot Vegas](http://www.nic.vegas/) - new sponsor!
 - New [Website](http://js.prototype.vegas)
-- Slack Chat
-- Sticker help
-- Whitehouse
-- Twitter
+- [Slack Chat](https://vegasjs.slack.com/)
+- [Sticker help](https://github.com/vegasjs/Administrative/issues/1)
+- [Whitehouse](http://www.whitehouse.gov/sotu)
+- [Twitter Flock](https://twitterdrivelv.splashthat.com/)
