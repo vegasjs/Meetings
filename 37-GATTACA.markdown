@@ -12,7 +12,7 @@ Password: {{wifi_password}}
 - Beginners Corner: Lexical Scope - [Paul Barret](https://twitter.com/codersjunto)
 - Talk: Error Handling : Errors are not Strings - [Jimmy Jacobson](https://twitter.com/jimmyjacobson)
 - Break
-- Talk: New ES6 Hotness - [Pawel Szymczykowski](https://twitter.com/makenai
+- Talk: New ES6 Hotness - [Pawel Szymczykowski](https://twitter.com/makenai)
 - Next meeting planning ([github](https://github.com/vegasjs/Meetings/issues))
 - Raffle
 - Open Microphone / Announcements
