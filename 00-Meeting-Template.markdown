@@ -1,6 +1,10 @@
 #VegasJS #00 - {{meeting_name}}
 ## {{meeting date}} <!-- format: December 31st, 1969 -->
 
+SSID: ZapposGuest
+User: zguest
+Password: {{wifi_password}}
+
 - Food + Drink
 - Thanks Sponsors
 - Welcome, new attendees
