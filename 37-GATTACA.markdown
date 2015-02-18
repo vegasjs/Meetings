@@ -1,10 +1,6 @@
 #VegasJS #37 - GATTACA
 ## February 17, 2015
 
-WiFi: ZapposGuest
-User: zguest
-Password: jellokitten
-
 - Food + Drink
 - Thanks Sponsors
 - Welcome, new attendees
