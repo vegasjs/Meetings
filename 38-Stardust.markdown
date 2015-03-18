@@ -8,7 +8,9 @@
 - Beginner Corner - TBA
 - Talk: LB Corney - socket.io
 - Break
-- Talk: Ling - d3.js
+- Lightning Talks
 - Next meeting planning ([github](https://github.com/vegasjs/Meetings/issues))
 - Raffle
 - Open Microphone / Announcements
+
+WiFi Password: kittenbunny
