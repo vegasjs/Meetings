@@ -6,9 +6,9 @@
 - Welcome, new attendees
 - News / Announcements
 - Beginner Talk: Looping - Paul Barrett
-- Talk: Isomorphic Apps - Zach
+- Talk: Isomorphic Apps - Zach Kolleger
 - Break
-- Talk: Web Accessibility - Anthony
+- Talk: The ADA Way - Anthony Crawford
 - Next meeting planning ([github](https://github.com/vegasjs/Meetings/issues))
 - Raffle
 - Open Microphone / Announcements
