@@ -1,6 +1,3 @@
----
-meetup_id: 223300432 
----
 #VegasJS #41 - Luke, I am your Father
 ## July 21st, 2015 at The Iron Yard
 
