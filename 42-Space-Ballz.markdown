@@ -11,3 +11,6 @@
 * Next meeting planning (github)
 * Raffle
 * Open Microphone/Announcements
+
+WiFi: IronYard
+PW: L3arn!ng
