@@ -1,5 +1,5 @@
 # VegasJS #43 - Pluto
-#### September 21st, 2015 <br /> The Iron Yard Las Vegas
+#### September 22nd, 2015 <br /> The Iron Yard Las Vegas
 
 **Schedule**
 * Food + Drink
@@ -7,7 +7,7 @@
 * Welcome, new attendees
 * News / Announcements
 * Talk: LB Corney - HTML5 Graphics
-* Talk: Zach Kollegger - Unit Testing
+* Talk: Chase Adams - Walmart Labs React Library Design
 * Next meeting planning (github)
 * Raffle
 * Open Microphone/Announcements
