@@ -7,6 +7,7 @@
 * Welcome, new attendees
 * News / Announcements
 * Talk: LB Corney - HTML5 Graphics
+* Community update: Sean Hagstrom
 * Talk: Chase Adams - Walmart Labs React Library Design
 * Next meeting planning (github)
 * Raffle
