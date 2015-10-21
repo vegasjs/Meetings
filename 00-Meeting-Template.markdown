@@ -5,6 +5,7 @@
 - Thanks Sponsors
 - Welcome, new attendees
 - News / Announcements
+- We have a chat room and a website!
 - {{micro_talk_title}} - {{micro_talk_speaker}}
 - Talk: {{talk_speaker_fullname}} - {{talk_title}} <!-- link to speaker twitter if you have it -->
 - Break
