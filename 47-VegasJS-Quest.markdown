@@ -8,7 +8,7 @@
 * News / Announcements
 * Talk: Adam Englander - Node Interactive Recap
 * Talk: Mike Sweeney - ES6/7 Look Before You Leap
-* Talk: Various Artists - Hackathon Show and Tell
+* Talk: Various Artists - Hackathon Highlights
 * Next Meeting Planning
 * Raffle
 * Open Microphone / Hangout
